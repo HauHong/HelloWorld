@@ -1,2 +1,3 @@
 # HelloWorld
-First touch on GitHub
+Hi.
+This is my first time doing this stuff.
